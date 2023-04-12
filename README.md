@@ -4,5 +4,6 @@ Developed an application where users can register, log in, and reset and change 
 
 Edited the default Django templates responsible for user management
 
-# Command to run this Django App inside the main directory
+# Command to run this Django App 
+inside the directory containing project and apps
 ### `python manage.py runserver`
